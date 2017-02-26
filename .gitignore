@@ -1,6 +1,11 @@
 .DS_Store
 .idea
 
+# Downloaded images
+cifar-10-python.tar.gz
+cifar-10-batches-py
+preprocess_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
